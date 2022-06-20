@@ -20,3 +20,4 @@ if duration == 86400:
 
 if 86400 < duration < 31556952:
     print(round(duration/86400), ' days', round(duration/86400), 'hours', round(duration/86400), 'min', duration % 60, 'sec')
+    print("Thanks for using my programm")
